@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
         "nome": "Maracanã",
-        "imagem": "TODO"
+        "imagem": "https://diariodorio.com/wp-content/uploads/2019/07/maracana.jpg"
     },
     "mandante": {
       "nome": "Brasil",
@@ -19,11 +19,11 @@
   {
     "descricao": "Eliminatórias Copa 2022",
     "local": {
-        "nome": "Maracanã",
-        "imagem": "TODO"
+        "nome": "Estágio Centenário",
+        "imagem": "http://m.lance.com.br/files/admin_slider_thumbnail/uploads/2021/11/26/61a144d25523b.jpeg"
     },
     "mandante": {
-      "nome": "Estágio Centenário",
+      "nome": "Uruguay",
       "forca": 4,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
     },
@@ -37,7 +37,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
         "nome": "Maracanã",
-        "imagem": "TODO"
+        "imagem": "https://diariodorio.com/wp-content/uploads/2019/07/maracana.jpg"
     },
     "mandante": {
       "nome": "Brasil",
